@@ -171,10 +171,11 @@ screen credits_roll():
         text "Спасибо, что поиграли!" style "credits_title"
 
 define CREDITS = [
-    ("Программирование, интерфейс, геймдизайн", "Яна"),
-    ("Сюжет и персонажи", "Яна и друзья"),
-    ("Шрифт", "Nunito — SIL Open Font License 1.1"),
-    ("Движок", "Ren'Py"),
+    ("Programming, interface, design", "mmrksmm"),
+    ("Asset replacement for copyright compliance", "Claude"),
+    ("Script and characters", "yanepoel, кшктркс"),
+    ("Font", "Nunito — SIL Open Font License 1.1"),
+    ("Game engine", "Ren'Py"),
 ]
 
 style credits_title is default:
