@@ -1,0 +1,5 @@
+define audio.calm = "audio/calm_loop.ogg"
+define audio.tense = "audio/tense_loop.ogg"
+define audio.notify = "audio/notify.ogg"
+define audio.knock = "audio/knock.ogg"
+define audio.thud = "audio/thud.ogg"
