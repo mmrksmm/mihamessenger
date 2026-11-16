@@ -1,0 +1,34 @@
+# Ren'Py: generated at runtime
+/game/saves/
+/game/cache/
+*.rpyc
+*.rpymc
+*.rpyb
+*.bak
+*.new
+*.old
+
+# Ren'Py: logs and launcher output
+/errors.txt
+/traceback.txt
+/log.txt
+/files.txt
+/image_cache.txt
+/save_dump.txt
+/dialogue.tab
+/dialogue.txt
+/strings.json
+/project.json
+
+# Builds
+/*-dists/
+*-pc.zip
+*-mac.zip
+*-linux.tar.bz2
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
